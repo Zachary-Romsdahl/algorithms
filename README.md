@@ -1,2 +1,4 @@
 # algorithms
-A compilation of algorithm solutions for interview prep
+
+A compilation of my algorithm solutions for interview prep
+Leetcode: https://leetcode.com/zdromsdahl/
